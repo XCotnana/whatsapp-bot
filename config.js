@@ -17,7 +17,7 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 //global.mod = JSON.parse(fs.readFileSync('./src/moderator.json')) 
-global.owner = ['6281284760551', '6281284760551'] // Your Number
+global.owner = ['6285641476033', '6285641476033'] // Your Number
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 
 global.APIs = { // API Prefix
@@ -54,16 +54,16 @@ global.APIKeys = { // APIKey in here
 
 
 // Sticker WM
-global.packname = '@ cuss.aa'
-global.author = '@ _sekhaa'
+global.packname = 'X-ZC'
+global.author = 'IG @hai_om.qw'
 
-global.wm = 'chika aka sekha'
+global.wm = 'X-ZC'
 global.wait = '⏳ tunggu permintaan kamu sedang di proses...'
 global.eror = '× Upss Erorr silahkan lapor owner'
 global.benar = '✓'
 global.salah = '×'
 global.dikit = 'hampir benar'
-global.footer = '© sekha'
+global.footer = 'X-ZC'
 global.lw = 'https://reysekhaa.herokuapp.com/api/textpro/greenhoror?apikey=apirey&text='
 global.reyganz= 'https://reysekhaa.herokuapp.com/api/wallpaper/ukhty?apikey='
 
